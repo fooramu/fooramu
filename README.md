@@ -4,11 +4,18 @@ I'm working as a software engineer from 2008.
 A brief biography includes
 
 - Born on Ise-Shima of Mie.
-- :arrow_right: Advertising Ventures
-- :arrow_right: Consumer game development (KONAMI Digital Entertainment)
-- :arrow_right: Cross-border EC (FROM JAPAN Limited)
-- :arrow_right: Establish of a contract business web system development company (MOOBON
-- :arrow_right: and more...
+- 🏢 Advertising Ventures
+  - Linux, Middleware, Perl, PHP, Infrustructure.
+- :office: Consumer game development (KONAMI Digital Entertainment)
+  - Unity(C#), Objective-C, Android Java
+- :office: Cross-border EC (FROM JAPAN Limited)
+  - CodeIgniter, PostgreSQL
+- :office: Establish of a contract business web system development company (MOOBON)
+  - Rails, AWS, Next.js, Docker,
+- :fire: Startup Support （toridori Inc.) 
+  - Vue.js, AWS, Rails
+- :fire: Product Growce Technical Advisor (Collabos Corporation)
+- :arrow_right: and more... :octocat: 🐙
 
 <!--
 **fooramu/fooramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
