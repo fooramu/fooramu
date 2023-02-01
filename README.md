@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm working as a software engineer from 2008.
+A brief biography includes
+
+- Born on Ise-Shima of Mie.
+- :arrow_right: Advertising Ventures
+- :arrow_right: Consumer game development (KONAMI Digital Entertainment)
+- :arrow_right: Cross-border EC (FROM JAPAN Limited)
+- :arrow_right: Establish of a contract business web system development company (MOOBON
+- :arrow_right: and more...
+
 <!--
 **fooramu/fooramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
