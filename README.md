@@ -3,7 +3,7 @@
 I'm working as a software engineer from 2008.
 A brief biography includes
 
-- Born on Ise-Shima of Mie.
+- :baby: Born on Ise-Shima of Mie.
 - 🏢 Advertising Ventures
   - Linux, Middleware, Perl, PHP, Infrustructure.
 - :office: Consumer game development (KONAMI Digital Entertainment)
