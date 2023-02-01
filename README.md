@@ -16,6 +16,7 @@ A brief biography includes
   - Vue.js, AWS, Rails
 - :fire: Product Growce Technical Advisor (Collabos Corporation)
 - :arrow_right: and more... :octocat: 🐙
+  - I have been development of growth of nearly 20 companies' products
 
 <!--
 **fooramu/fooramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
