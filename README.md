@@ -18,6 +18,9 @@ A brief biography includes
 - :arrow_right: and more... :octocat: 🐙
   - I have been development of growth of nearly 20 companies' products
 
+
+<!--
+
 ```javascript
 const SkillsProfiles = {
     specialSkills: ["Rails", "Refactoring", "Software Engineering", "Architecture Design"],
@@ -47,6 +50,8 @@ const SkillsProfiles = {
     currentProject: ""
 }
 ```
+
+-->
 
 
 <!--
