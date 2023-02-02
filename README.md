@@ -18,6 +18,37 @@ A brief biography includes
 - :arrow_right: and more... :octocat: 🐙
   - I have been development of growth of nearly 20 companies' products
 
+```javascript
+const SkillsProfiles = {
+    specialSkills: ["Rails", "Refactoring", "Software Engineering", "Architecture Design"],
+    mainCode: ["Javascript", "Ruby", "PHP"],
+    technologies: {
+        Infrustracture
+        devOps: [
+          "Docker",
+          "AWS": ["Fargate", "Glue/Atehna"]
+          "GCP": ["GAE"]
+          "Git"
+         ],    
+        frontEnd: {
+            javascript: ["React", "Next", "Nuxt"],
+            style: ["Bootstrap", "Webpack"]
+        },
+        backEnd: {
+            middleWare: ["Apache", "Nginx"]
+            node: ["npm", "yarn"]
+            php: ["CodeIgniter"],
+            ruby: ["Ruby on Rails"],            
+        },
+
+        misc: ["Firebase", "Socket.IO", "Postman", "Insomnia", "Xampp", "Eclipse", "Nginx", "Apache"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentProject: ""
+}
+```
+
+
 <!--
 **fooramu/fooramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
