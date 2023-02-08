@@ -14,7 +14,7 @@ A brief biography includes
   - Rails, AWS, Next.js, Docker,
 - :fire: Startup Support （toridori Inc.) 
   - Vue.js, AWS, Rails
-- :fire: Product Growce Technical Advisor (Collabos Corporation)
+- :fire: Product Technical Advisor (Collabos Corporation)
 - :arrow_right: and more... :octocat: 🐙
   - I have been development of growth of nearly 20 companies' products
 
