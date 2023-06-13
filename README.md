@@ -15,6 +15,7 @@ A brief biography includes
 - :fire: Startup Support （toridori Inc.) 
   - Vue.js, AWS, Rails
 - :fire: Product Technical Advisor (Collabos Corporation)
+- :fire: Product Development Support (CoLife Inc)
 - :arrow_right: and more... :octocat: 🐙
   - I have been development of growth of nearly 20 companies' products
 
