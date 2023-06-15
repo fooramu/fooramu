@@ -1,13 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+### About me
+
+I'm working as a software engineer from 2008.
 
 [![Contributions](https://badgen.org/img/qiita/emacs_hhkb/contributions?style=for-the-badge)](https://qiita.com/emacs_hhkb)
 [![Followers](https://badgen.org/img/qiita/emacs_hhkb/followers?style=for-the-badge)](https://qiita.com/emacs_hhkb)
 
-## About me
-
-I'm working as a software engineer from 2008.
-
-## Career
+### Career
 
 - :baby: Born on Ise-Shima of Mie.
 - 🏢 Advertising Ventures
