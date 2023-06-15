@@ -3,25 +3,27 @@
 [![Contributions](https://badgen.org/img/qiita/emacs_hhkb/contributions?style=for-the-badge)](https://qiita.com/emacs_hhkb)
 [![Followers](https://badgen.org/img/qiita/emacs_hhkb/followers?style=for-the-badge)](https://qiita.com/emacs_hhkb)
 
+## About me
+
 I'm working as a software engineer from 2008.
-A brief biography includes
+
+## Career
 
 - :baby: Born on Ise-Shima of Mie.
 - 🏢 Advertising Ventures
-  - Linux, Middleware, Perl, PHP, Infrustructure.
+  - `Linux, Middleware, Perl, PHP, Infrustructure`
 - :office: Consumer game development (KONAMI Digital Entertainment)
-  - Unity(C#), Objective-C, Android Java
+  - `Unity(C#), Objective-C, Android Java`
 - :office: Cross-border EC (FROM JAPAN Limited)
-  - CodeIgniter, PostgreSQL
+  - `CodeIgniter, PostgreSQL`
 - :office: Establish of a contract business web system development company (MOOBON)
-  - Rails, AWS, Next.js, Docker,
+  - `Rails, AWS, Next.js, Docker`
 - :fire: Startup Support （toridori Inc.) 
-  - Vue.js, AWS, Rails
+  - `Vue.js, AWS, Rails`
 - :fire: Product Technical Advisor (Collabos Corporation)
 - :fire: Product Development Support (CoLife Inc)
 - :arrow_right: and more... :octocat: 🐙
   - I have been development of growth of nearly 20 companies' products
-
 
 <!--
 
