@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Contributions](https://badgen.org/img/qiita/emacs_hhkb/contributions?style=for-the-badge)](https://qiita.com/emacs_hhkb)
+[![Followers](https://badgen.org/img/qiita/emacs_hhkb/followers?style=for-the-badge)](https://qiita.com/emacs_hhkb)
+
 I'm working as a software engineer from 2008.
 A brief biography includes
 
