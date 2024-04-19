@@ -17,14 +17,16 @@ I'm working as a software engineer from 2008.
 - :office: Cross-border EC (FROM JAPAN Limited)
   - `CodeIgniter, PostgreSQL`
 - :office: Establish of a contract business web system development company (MOOBON)
-  - `Rails, AWS, Next.js, Docker`
+  - `Rails, AWS, Next.js, Docker, Cloudflare, Flutter`
+- First child born. 👨‍🦲👱‍♀️(👶)
 - :fire: Startup Support （toridori Inc.) 
   - `Vue.js, AWS, Rails`
 - :fire: Product Technical Advisor (Collabos Corporation)
+- Second child born. 👨‍🦲👱‍♀️👶(👶)
 - :fire: Product Development Support (CoLife Inc)
 - :arrow_right: and more... :octocat: 🐙
   - I have been development of growth of nearly 20 companies' products
-
+ 
 <!--
 
 ```javascript
