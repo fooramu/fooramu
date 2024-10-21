@@ -4,8 +4,8 @@
 
 I'm working as a software engineer from 2008.
 
-[![Contributions](https://badgen.org/img/qiita/emacs_hhkb/contributions?style=for-the-badge)](https://qiita.com/fooramu)
-[![Followers](https://badgen.org/img/qiita/emacs_hhkb/followers?style=for-the-badge)](https://qiita.com/fooramu)
+[![Contributions](https://badgen.org/img/qiita/fooramu/contributions?style=for-the-badge)](https://qiita.com/fooramu)
+[![Followers](https://badgen.org/img/qiita/fooramu/followers?style=for-the-badge)](https://qiita.com/fooramu)
 
 ### Career
 
