@@ -3,6 +3,7 @@
 ### About me
 
 I'm working as a software engineer from 2008.
+I love building efficient engineering teams.
 
 [![Contributions](https://badgen.org/img/qiita/fooramu/contributions?style=for-the-badge)](https://qiita.com/fooramu)
 [![Followers](https://badgen.org/img/qiita/fooramu/followers?style=for-the-badge)](https://qiita.com/fooramu)
